@@ -10,7 +10,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem;
+  padding: 16px;
   background-color: #333;
   color: #fff;
   font-family: "Georgia", serif;
@@ -18,7 +18,7 @@ header {
 
 header h1 {
   margin: 0;
-  font-size: 1.8rem;
+  font-size: 28.8px;
   cursor: pointer;
 }
 
@@ -37,16 +37,16 @@ header h1:hover {
 
 #category-filters {
   display: flex;
-  gap: 0.5rem;
+  gap: 8px;
 }
 
 #category-filters button {
   background-color: #ff7f50;
   color: #fff;
   border: none;
-  padding: 0.5rem 1rem;
+  padding: 8px 16px;
   border-radius: 20px;
-  font-size: 1rem;
+  font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
@@ -75,7 +75,7 @@ header h1:hover {
   width: 100%;
   height: auto;
   max-height: 200px;
-  object-fit: contain; /* Ensures the image fits within the specified height */
+  object-fit: contain; 
   border-radius: 5px;
 }
 
@@ -83,10 +83,10 @@ header h1:hover {
   background-color: #4caf50;
   color: white;
   border: none;
-  padding: 0.5rem 1rem;
-  margin-top: 0.5rem;
+  padding: 8px 16px;
+  margin-top: 8px;
   border-radius: 10px;
-  font-size: 1rem;
+  font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
@@ -103,7 +103,7 @@ header h1:hover {
 
 #cart-container {
   background-color: #f9f9f9;
-  padding: 1rem;
+  padding: 16px;
   border: 1px solid #ddd;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -119,7 +119,7 @@ header h1:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.5rem 0;
+  padding: 8px 0;
   border-bottom: 1px solid #ddd;
 }
 
@@ -127,9 +127,9 @@ header h1:hover {
   background-color: #e74c3c;
   color: white;
   border: none;
-  padding: 0.2rem 0.5rem;
+  padding: 3.2px 8px;
   border-radius: 5px;
-  font-size: 0.8rem;
+  font-size: 12.8pxrem;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
@@ -160,10 +160,10 @@ header h1:hover {
   background-color: #008cba;
   color: white;
   border: none;
-  padding: 0.8rem 1.2rem;
+  padding: 12.8px 19.2px;
   border-radius: 20px;
-  font-size: 1.1rem;
-  margin-top: 1rem;
+  font-size: 17.6px;
+  margin-top: 16px;
   cursor: pointer;
   text-align: center;
   transition: background-color 0.3s ease;

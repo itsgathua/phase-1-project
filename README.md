@@ -57,6 +57,14 @@ Users can proceed to checkout to see the total price of the selected items. The 
 - Enhance the UI with animations and advanced styling.
 - Add detailed product pages with more information.
 
+## Future Improvements
+- Add a backend for payment and transaction management.
+- Store cart data in local storage to persist across sessions.
+- Enhance the UI with animations and advanced styling.
+- Implement a search bar to enable easy finding of products.
+- Add detailed product pages with more information.
+
+
 ## Author
 Ian Gathua
 

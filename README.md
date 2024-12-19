@@ -1,5 +1,7 @@
 # Clothing Store SPA
 
+THis is my live link - https://itsgathua.github.io/phase-1-project/
+
 ## Description
 This is a Single Page Application (SPA) for a clothing store, built using **HTML**, **CSS**, and **JavaScript**. It provides users with an interactive shopping experience by offering features like:
 

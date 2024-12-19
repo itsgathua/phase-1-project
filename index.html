@@ -1,54 +1,32 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clothing Store SPA</title>
-    <link rel="stylesheet" href="styles.css">
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clothing Store</title>
+  <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-
-    <header>
-
-        <h1>Clothing Store</h1>
-        <input type="text" id="searchBar" placeholder="Search for clothes...">
-        <nav>
-            <button id="filterTShirts">T-Shirts</button>
-            <button id="filterJackets">Jackets</button>
-            <button id="filterNike">Nike</button>
-            <button id="filterAdidas">Adidas</button>
-        </nav>
-
-    </header>
-
-    <main>
-
-        <section id="productList">
-            <!-- Products will be dynamically loaded here -->
-        </section>
-        <aside>
-            <h2>Shopping Cart</h2>
-            <ul id="cartItems">
-                <!-- Cart items will appear here -->
-            </ul>
-            <button id="checkoutButton">Checkout</button>
-        </aside>
-
-    </main>
-
-    <footer>
-
-        <p>&copy; 2024 Clothing Store SPA</p>
-
-    </footer>
-
-
-    <script src="index.js"></script>
-
+  <header>
+    <button id="logo">Clothing Store</button>
+    <div class="search-bar">
+      <input type="text" id="search-bar" placeholder="Search for clothes...">
+      <button id="search-button">Search</button>
+    </div>
+  </header>
+  <main>
+    <aside id="category-filters"></aside>
+    <section id="product-list"></section>
+    <aside id="shopping-cart">
+      <h2>Shopping Cart</h2>
+      <ul id="cart-items"></ul>
+      <button id="checkout-button">Checkout</button>
+    </aside>
+  </main>
+  <div id="modal" class="hidden">
+    <div id="modal-content"></div>
+    <button id="close-modal">Close</button>
+  </div>
+  <script src="index.js"></script>
 </body>
-
 </html>

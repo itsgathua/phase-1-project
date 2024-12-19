@@ -1,1 +1,209 @@
-{}
+{
+    "Products": [
+      {
+        "id": 1,
+        "name": "Adidas T-shirt",
+        "brand": "Adidas",
+        "category": "T-shirts",
+        "description": "A comfortable cotton T-shirt with Adidas logo.",
+        "price": 25,
+        "image": "https://i.pinimg.com/736x/e7/5d/ca/e75dcae4ea9abd38a3a348d45610feb1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Adidas T-shirt2",
+        "brand": "Adidas",
+        "category": "T-shirts",
+        "description": "Stylish Adidas T-shirt with a bold design.",
+        "price": 30,
+        "image": "https://i.pinimg.com/736x/b4/63/b7/b463b7887436415fe3a445115c4beeeb.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adidas T-shirt3",
+        "brand": "Adidas",
+        "category": "T-shirts",
+        "description": "Classic Adidas T-shirt in black with white stripes.",
+        "price": 28,
+        "image": "https://i.pinimg.com/736x/a4/d0/dd/a4d0dd65d407041661ae38dfd5f40533.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Adidas Pants1",
+        "brand": "Adidas",
+        "category": "Pants",
+        "description": "Comfortable Adidas pants for everyday wear.",
+        "price": 40,
+        "image": "https://i.pinimg.com/736x/a8/a7/58/a8a758904990ee56791acaf2e7467a43.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Adidas Pants2",
+        "brand": "Adidas",
+        "category": "Pants",
+        "description": "Adidas athletic pants with a relaxed fit.",
+        "price": 45,
+        "image": "https://i.pinimg.com/736x/cb/23/c9/cb23c938f3f14ab0726bdccd9cdb49da.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Adidas Pants 3",
+        "brand": "Adidas",
+        "category": "Pants",
+        "description": "Slim fit Adidas pants with pockets.",
+        "price": 50,
+        "image": "https://i.pinimg.com/736x/3d/bd/07/3dbd07c53f67e0cf9a11ce67b99ad714.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Adidas Shoes 1",
+        "brand": "Adidas",
+        "category": "Shoes",
+        "description": "Stylish Adidas sneakers with advanced cushioning.",
+        "price": 60,
+        "image": "https://i.pinimg.com/736x/f2/62/48/f262483fce7f54b6d38915d0915c8362.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Adidas Shoes 2",
+        "brand": "Adidas",
+        "category": "Shoes",
+        "description": "Performance-oriented Adidas shoes for sports.",
+        "price": 75,
+        "image": "https://i.pinimg.com/474x/97/ce/7a/97ce7a44152f55b75882c69a33242d0a.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Adidas Shoes 3",
+        "brand": "Adidas",
+        "category": "Shoes",
+        "description": "Comfortable Adidas running shoes.",
+        "price": 80,
+        "image": "https://i.pinimg.com/474x/b2/76/11/b27611f6ce1697df4150784a61057fb1.jpg"
+      },
+    
+      {
+        "id": 10,
+        "name": "Nike T-shirt 1",
+        "brand": "Nike",
+        "category": "T-shirts",
+        "description": "Nike T-shirt with a dynamic design.",
+        "price": 30,
+        "image": "https://i.pinimg.com/474x/d0/83/a1/d083a1c978840ee2c6e13ee329f1eba8.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Nike T-shirt 2",
+        "brand": "Nike",
+        "category": "T-shirts",
+        "description": "Comfortable and stylish Nike T-shirt.",
+        "price": 35,
+        "image": "https://i.pinimg.com/474x/96/0f/d0/960fd013fbb1b7de443486281c352262.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Nike T-shirt 3",
+        "brand": "Nike",
+        "category": "T-shirts",
+        "description": "Nike Dri-FIT T-shirt for sports.",
+        "price": 40,
+        "image": "https://i.pinimg.com/474x/d0/83/a1/d083a1c978840ee2c6e13ee329f1eba8.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Nike Pants 1",
+        "brand": "Nike",
+        "category": "Pants",
+        "description": "Nike joggers for a relaxed fit.",
+        "price": 55,
+        "image": "https://i.pinimg.com/474x/32/b1/1d/32b11df39d3c12a9c8365f7c9129de9c.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Nike AF1s",
+        "brand": "Nike",
+        "category": "Shoes",
+        "description": "Nike sneakers with superior grip and comfort.",
+        "price": 90,
+        "image": "https://i.pinimg.com/474x/64/7c/ad/647cad16ede10f3ac32e84c8f14831e9.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Nike Air Jordans 3",
+        "brand": "Nike",
+        "category": "Shoes",
+        "description": "Nike sneakers",
+        "price": 100,
+        "image": "https://i.pinimg.com/474x/6f/cd/fc/6fcdfc09651455d3c77a2e1285239eb9.jpg"
+      },
+
+
+      {
+        "id": 16,
+        "name": "Fashion Plain",
+        "brand": "Fashion",
+        "category": "T-shirts",
+        "description": "Stylish and casual fashion T-shirt.",
+        "price": 25,
+        "image": "https://i.pinimg.com/474x/ec/15/7e/ec157e972fee420be67892dae64bc915.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Fashion Spider T-shirt",
+        "brand": "Fashion",
+        "category": "T-shirts",
+        "description": "Trendy fashion T-shirt with a unique spider print.",
+        "price": 28,
+        "image": "https://i.pinimg.com/474x/f2/cc/b7/f2ccb7ab73dda6947619291522e01e77.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Fashion 'Diary of a Wimpy Kid' T-shirt",
+        "brand": "Fashion",
+        "category": "T-shirts",
+        "description": "Comfortable cotton Greg Heffley t-shirt.",
+        "price": 22,
+        "image": "https://i.pinimg.com/474x/04/eb/db/04ebdbc4eb6c18bbd5068049040d3816.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Fashion Tupac Shakur T-shirt",
+        "brand": "Fashion",
+        "category": "T-shirts",
+        "description": "Stylish, loose-fitting fashion T-shirt with a Tupac printed image.",
+        "price": 35,
+        "image": "https://i.pinimg.com/474x/8c/fe/45/8cfe45b01cba3b1a17f111c00f67d8e0.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Fashion Black Chunky Penny Loafers",
+        "brand": "Fashion",
+        "category": "Shoes",
+        "description": "Trendy fashion polished loafers with unique design.",
+        "price": 80,
+        "image": "https://i.pinimg.com/474x/4a/84/96/4a8496ea749c08b830e38ddd638b3cb9.jpg"
+      },
+
+      {
+        "id": 21,
+        "name": "Generic Short Sleeve Shirt",
+        "brand": "Generic",
+        "category": "Shirts",
+        "description": "Plain short sleeve cotton shirt for everyday wear.",
+        "price": 15,
+        "image": "https://i.pinimg.com/736x/eb/5e/69/eb5e69a5bd077d1dd6fb0dfce173bb56.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Generic Simple Shirt",
+        "brand": "Generic",
+        "category": "Shirts",
+        "description": "Simple and comfortable shirt.",
+        "price": 18,
+        "image": "https://i.pinimg.com/736x/eb/5e/69/eb5e69a5bd077d1dd6fb0dfce173bb56.jpg"
+      }
+    
+    ]
+}
+  
+  

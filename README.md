@@ -21,6 +21,9 @@ Products can be added to a shopping cart. The cart keeps track of all selected i
 ### 4. **Basic Checkout**
 Users can proceed to checkout to see the total price of the selected items. The cart is cleared after a successful checkout.
 
+### 5. **Update Quantity**
+Allows Users to update the quantity of products that they want to purchase
+
 
 ## Installation
 1. Clone the repository:
